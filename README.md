@@ -8,7 +8,7 @@ I design systems, craft prompts, and collaborate with AI to build production-rea
 
 ## 📦 August 2026: Shipping Report
 
-**185 commits** across 4 active repositories.
+**185 commits** across 4 active repositories:
 
 | Project | Commits | Description |
 |---------|---------|-------------|
@@ -26,67 +26,57 @@ I design systems, craft prompts, and collaborate with AI to build production-rea
 3. **Review & Integrate** — Understand every line, refactor, stitch together
 4. **Ship & Iterate** — Deploy to Vercel/Supabase, gather feedback, repeat
 
-> I'm not a 10x engineer. I'm a 10x **builder** — leveraging AI to ship working products.
-
 ---
 
 ## 🧰 Tech Stack
 
-### Frameworks & Languages
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Deployment & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Other Skills
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Multi-Language](https://img.shields.io/badge/Multi--Language-EN%20%7C%20ZH%20%7C%20MY-4EAA25?style=for-the-badge&logo=google-translate&logoColor=white)
 
 ---
 
-## 🌟 Project Highlights
+## 🌟 Projects
 
-### Goldfinder
-> Offline-first PWA for field geologists working in remote areas.
+### [Goldfinder](https://github.com/minnyinyioo/goldfinder)
+> Offline-first PWA for field geologists.
 - Service Workers for full offline support
 - GPS sample tracking + grade calculator
 - Telegram Mini App integration
 - **Stack**: Python · Streamlit · PWA
 
-### Burmesebridge
+### [Burmesebridge](https://github.com/minnyinyioo/Burmesebridge)
 > Full-stack Next.js platform for cross-border communities.
 - Next.js 14 + TypeScript + Tailwind
 - Supabase authentication + PostgreSQL
 - SMTP email integration
 - Admin dashboard
 
-### Shwezay
+### [Shwezay](https://github.com/minnyinyioo/shwezay)
 > Real-time gold & FX reference in a single HTML file.
 - 3-layer USD/MMK rate validation
 - Thailand gold (96.5% purity) tracking
 - Dark/light themes · EN/MY
 - **Stack**: Vanilla HTML · CSS · JavaScript
 
-### Creator Platform Help Hub
+### [Creator Platform Help Hub](https://github.com/minnyinyioo/creator-platform-help-hub)
 > Knowledge base and support documentation for creator tools.
 - **Stack**: Next.js · TypeScript
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity (August 2026)
 
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnyinyioo&show_icons=true&theme=dark&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minnyinyioo&layout=compact&theme=dark)
+- **185 commits** across 4 repositories
+- **100 commits** on goldfinder
+- **46 commits** on Burmesebridge
+- **33 commits** on creator-platform-help-hub
+- **6 commits** on shwezay
 
 ---
 
